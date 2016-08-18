@@ -185,3 +185,5 @@ Licensed under [the MIT license](LICENSE).
 [paypal-image]: http://img.shields.io/badge/PayPal-Donate-green.svg
 [tip4commit-url]: http://tip4commit.com/projects/639
 [tip4commit-image]: http://tip4commit.com/projects/639.svg
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/Chrome-Sockets)
